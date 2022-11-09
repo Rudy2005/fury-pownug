@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		body {
+			background: #303030;
+			color: #fff;
+			height:  100vh;
+			width: 100%;
+
+		}
+		img {
+			width: 300px;
+			border-radius: 99px;
+		}
+		.container {
+			display:  flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: row;
+		}
+		figcaption, h1 {
+			text-align: center;
+		}
+		ul {
+			font-size: 1rem;
+		}
+
+	</style>
+	<title>Mateusz Domin</title>
+</head>
+<body>
+	<h1>Mateusz Domin</h1>
+	<hr>
+	<div class="container">
+	
+	<figure>
+    	<img src="https://cdn.discordapp.com/attachments/774229498728153159/1039984858480513054/unknown.png">
+		<figcaption>Lamborghini Aventador Superveloce Jota - samochód mem</figcaption>
+		<ul>
+		<li>Auto produkowane we Włoszech</li>
+		
+	</ul>
+	</figure>
+	<figure>
+    	<img src="https://cdn.discordapp.com/attachments/774229498728153159/1039985645394874448/unknown.png"
+         alt="Bugatti"
+		 style="width:366px">
+		<figcaption>Bugatti Chiron Super Sport 300+</figcaption>
+		<ul>
+		<li>Najlepsza fura świata</li>
+		
+	</ul>
+	</figure>
+	<figure>
+    	<img src="https://cdn.discordapp.com/attachments/774229498728153159/1040000804402249760/unknown.png"
+         alt="McLaren"
+		 style="width:360px">
+		<figcaption>McLaren P1</figcaption>
+		<ul>
+		<li>Auto produkowane we Włoszech</li>
+		
+	</ul>
+	</figure>
+
+</div>
+</body>
+</html>
